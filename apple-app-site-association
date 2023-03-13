@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "AQH74YCSSU.network.ambros.coloringmonster.dev",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
