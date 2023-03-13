@@ -1,6 +1,6 @@
 # Welcome to Coloring Hero homepage
 
-## Have Funs
+## Have Fun
 
 ## - ngā mihi -
 
